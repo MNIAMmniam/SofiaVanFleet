@@ -1,0 +1,122 @@
+.u-section-1 {
+  min-height: 690px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 570px;
+  margin: 47px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 590px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 470px;
+    height: 470px;
+    margin-left: calc(((100% - 940px) / 2) + -36px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 720px) / 2) + -36px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 39px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 418px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 282px;
+    width: 365px;
+    margin-top: 36px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 690px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 678px;
+  height: 678px;
+  margin: -52px auto 60px -129px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 508px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 494px;
+    height: 494px;
+    margin-top: -47px;
+    margin-left: -50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 354px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 340px;
+    margin-top: -45px;
+    margin-bottom: 59px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 690px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 570px;
+  height: 570px;
+  margin: 60px auto 60px -133px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -138px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-image-1 {
+    margin-left: -50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 340px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: -29px;
+    margin-bottom: 29px;
+    margin-left: -16px;
+  }
+}
